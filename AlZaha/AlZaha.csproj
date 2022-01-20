@@ -109,6 +109,7 @@
     <Content Include="About1.aspx" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\about.jpg" />
+    <Content Include="assets\img\Al-Zaha-logo.png" />
     <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\blog\blog-1.jpg" />
     <Content Include="assets\img\blog\blog-2.jpg" />
@@ -135,6 +136,8 @@
     <Content Include="assets\img\clients\client-6.png" />
     <Content Include="assets\img\clients\client-7.png" />
     <Content Include="assets\img\clients\client-8.png" />
+    <Content Include="assets\img\favicon-32x32.png" />
+    <Content Include="assets\img\favicon-96x96.png" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\features-1.png" />
     <Content Include="assets\img\features-2.png" />
