@@ -641,10 +641,10 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio #portfolio-flters {
-  padding: 0;
-  margin: 0 auto 50px auto;
-  list-style: none;
-  text-align: center;
+    padding: 0;
+    margin: 0 auto 50px auto;
+    list-style: none;
+    text-align: center;
 }
 .portfolio #portfolio-flters li {
   cursor: pointer;
