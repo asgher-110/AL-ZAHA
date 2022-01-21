@@ -243,7 +243,7 @@
         </div>
       </div>
          <div class="col-md-12" id="more-button" style="text-align:center; ">
-          <a href="#"class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="padding:10px 10px 10px 10px;">More Images</a>
+          <a href="#"class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="padding:3px 3px 3px 3px; background-color:#f03c02">More Images</a>
       </div>
     </section><!-- End Portfolio Section -->
 
@@ -253,20 +253,20 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Our <strong>Clients</strong></h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+         <%-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>--%>
         </div>
 
         <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/client-1.jpg" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -282,7 +282,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+         <%-- <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
             </div>
@@ -304,7 +304,7 @@
             <div class="client-logo">
               <img src="assets/img/clients/client-8.png" class="img-fluid" alt="">
             </div>
-          </div>
+          </div>--%>
 
         </div>
 
