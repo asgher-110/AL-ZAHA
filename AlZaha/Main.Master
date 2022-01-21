@@ -64,9 +64,9 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="active" href="Default.aspx">Home</a></li>
-          <li><a href="About.aspx">About</a></li>
-          <li><a href="Services.aspx">Services</a></li>
-          <li><a href="Portfolio.aspx">Portfolio</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Portfolio</a></li>
           <%--<li><a href="testimonials.html">Testimonials</a></li>
           <li><a href="pricing.html">Pricing</a></li>
           <li><a href="blog.html">Blog</a></li>
@@ -87,7 +87,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>--%>
-          <li><a href="Contact.aspx">Contact</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -121,8 +121,8 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="default.aspx">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="about.aspx">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="Services.aspx">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
@@ -131,21 +131,19 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">OUR VISION & MISSION</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">DESIGN & DEVELOPMENT</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">BUSINESS DEVELOPMENT & ESTIMATION</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">OPERATIONS (CIVIL, ELECTRICAL)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">CIVIL CONSTRUCTION</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Fit Out</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">More</a></li>
             </ul>
           </div>
 
-          <%--<div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>--%>
+            <div class="col-lg-4 col-md-6 footer-newsletter">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1911.0451842385985!2d51.543741151526646!3d25.28494924370838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45c56d072dd6d1%3A0x62dc379b284d5f5d!2sConcord%20Business%20Center!5e0!3m2!1sen!2sin!4v1642763324808!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          </div>
 
         </div>
       </div>
@@ -158,7 +156,7 @@
           &copy; Copyright <strong><span>AL ZAHA</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <a href="#"></a>
+          Designed by Team N.S <a href="#"></a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">

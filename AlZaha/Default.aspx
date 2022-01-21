@@ -92,42 +92,42 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bi bi-briefcase"></i></div>
+              <div class="icon"><img src="assets/img/services-logo/OUR-VISION-_MISSION.png"/></div>
               <h4 class="title"><a href="#">Our Vision & Mission</a></h4>
               <p class="description">Being one of the leading company in the field of trading & contracting bysatisfying the requirements of the client with the best, up to date solutions.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bi bi-card-checklist"></i></div>
+              <div class="icon"><img src="assets/img/services-logo/DESIGN-DEVELOPMENT.png"/></div>
               <h4 class="title"><a href="#">Design & Development</a></h4>
               <p class="description">We create designs that meet the diverse needs of our customers and their end-users, including finding innovative ways to make our Clients’ Projects more environmentally friendly</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bi bi-bar-chart"></i></div>
+              <div class="icon"><img src="assets/img/services-logo/BUSINESS-DEVELOPMENT.png" /></div>
               <h4 class="title"><a href="#">Business Development & Estimation</a></h4>
               <p class="description">Business development is the creation of long-term value for an organization from customers, markets, and relationships.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bi bi-binoculars"></i></div>
+              <div class="icon"><img src="assets/img/services-logo/OPERATIONS-CIVIL-ELECTRICAL.png" /></div>
               <h4 class="title"><a href="#">Operations (Civil, Electrical)</a></h4>
               <p class="description">Al Zaha transforms Design concepts into tangible assets through a comprehensive approach to construction that is informed by our diverse technical expertise.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="bi bi-brightness-high"></i></div>
+              <div class="icon"><img src="assets/img/services-logo/CIVIL-CONSTRUCTION.png" /></div>
               <h4 class="title"><a href="#">Civil Construction</a></h4>
               <p class="description">We have been providing our clients with reliable solutions to their most complex construction challenges</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon"><i class="bi bi-calendar4-week"></i></div>
+              <div class="icon"><img src="assets/img/services-logo/FIT-OUT.png" /></div>
               <h4 class="title"><a href="#">Fit Out</a></h4>
               <p class="description">We offer a wide range of services by providing proper solution for offices, buildings, shopping mall, Apartments and villas etc</p>
             </div>

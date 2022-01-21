@@ -143,6 +143,12 @@
     <Content Include="assets\img\portfolio\portfolio-1.png" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.png" />
+    <Content Include="assets\img\services-logo\BUSINESS-DEVELOPMENT.png" />
+    <Content Include="assets\img\services-logo\CIVIL-CONSTRUCTION.png" />
+    <Content Include="assets\img\services-logo\DESIGN-DEVELOPMENT.png" />
+    <Content Include="assets\img\services-logo\FIT-OUT.png" />
+    <Content Include="assets\img\services-logo\OPERATIONS-CIVIL-ELECTRICAL.png" />
+    <Content Include="assets\img\services-logo\OUR-VISION-_MISSION.png" />
     <Content Include="assets\img\slide\slide-1.png" />
     <Content Include="assets\img\slide\slide-2.jpg" />
     <Content Include="assets\img\slide\slide-3.jpg" />
