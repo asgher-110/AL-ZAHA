@@ -4,12 +4,12 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
       <!-- ======= Hero Section ======= -->
   <section id="hero">
-    <div id="heroCarousel" data-bs-interval="50000000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.png);">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.png); background-size: 100% auto;">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Welcome to <span>AL ZAHA</span></h2>
@@ -20,7 +20,7 @@
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg); background-size: 100% auto;">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Our Vision & Mission</h2>
@@ -31,7 +31,7 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg); background-size: 100% auto;">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Design & Development</h2>
@@ -41,7 +41,7 @@
           </div>
         </div>
           <!-- slide 4-->
-          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-4.jpg);">
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-4.jpg); background-size: 100% auto;">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Civil Construction</h2>
