@@ -285,30 +285,104 @@
               <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
             </div>
           </div>
-
-         <%-- <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="client-logo">
-              <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-xs-6">
+             <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
             </div>
           </div>
-
+            
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="assets/img/clients/client-7.png" class="img-fluid" alt="">
             </div>
           </div>
-
+            
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="assets/img/clients/client-8.png" class="img-fluid" alt="">
             </div>
-          </div>--%>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-9.jpg" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-10.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-11.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-12.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-13.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-14.jfif" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-15.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-17.jfif" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-18.jpg" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-19.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-20.jpg" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-21.png" class="img-fluid" alt="">
+            </div>
+          </div>
+            
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/client-22.jpg" class="img-fluid" alt="">
+            </div>
+          </div>
+         
 
         </div>
 
